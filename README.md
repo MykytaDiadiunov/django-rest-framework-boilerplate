@@ -16,3 +16,14 @@ DJANGO_SUPERUSER_USERNAME=root
 DJANGO_SUPERUSER_PASSWORD=root
 DJANGO_SUPERUSER_EMAIL=root@root.com
 ```
+
+## Installing
+  ### **1. Clone the Repository**
+```
+git clone git@github.com:MykytaDiadiunov/django-rest-framework-boilerplate.git
+cd django-rest-framework-boilerplate
+```
+  ### **2. Launch with Docker**
+```
+docker compose up --build
+```
